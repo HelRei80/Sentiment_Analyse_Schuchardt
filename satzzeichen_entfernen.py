@@ -2,7 +2,6 @@ import bs4
 import lxml        
 from bs4 import BeautifulSoup as bs
 import os
-import os
 
 
 pfad = r"pfad\zu\dateien\\" 

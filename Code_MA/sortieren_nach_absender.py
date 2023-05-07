@@ -1,3 +1,5 @@
+# den Ordner HS vorher machen, auf derselben Ebene mit den Dateien
+
 import xml.dom.minidom
 import os
 import shutil

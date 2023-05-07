@@ -1,3 +1,5 @@
+# den Ordner "nach1918" schon vorher machen, auf derselben Ebene wie die Dateien
+
 import xml.dom.minidom
 import os
 import shutil

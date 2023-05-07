@@ -1,3 +1,5 @@
+# die notwendigen Ordner schon vorher machen, auf derselben Ebene wie die Dateien
+
 import xml.dom.minidom
 import os
 import shutil

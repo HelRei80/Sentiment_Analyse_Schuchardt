@@ -24,7 +24,7 @@ def make_lex_file(lex_list, filename):
             lex = fh_out.write(wort)
     return lex
 
-# Einlesen der positiven und negativen Listen:
+# Einlesen der positiven und negativen Listen (Anzahl der Listen kann angepasst werden, hier kommen zwei positive und zwei negative Listen vor):
 lex_pos_1 = read_lex(r"datei1.txt")
 lex_neg_1 = read_lex (r"datei2.txt")
 lex_pos_2 = read_lex(r"datei3.txt")
